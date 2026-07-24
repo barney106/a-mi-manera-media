@@ -2,7 +2,7 @@
   "id": "short_bizcocho_yogur",
   "title": "Bizcocho Yogur",
   "description": "Receta fácil y rápida de Bizcocho Yogur a mi manera.",
-  "category": "Postres y Masas",
+  "category": "Postres",
   "difficulty": "Fácil",
   "time": "15 min",
   "servings": "2 porciones",
@@ -10,7 +10,7 @@
   "youtube_id": "",
   "ingredients": [],
   "steps": [
-    "Sigue las instrucciones del vídeo paso a paso."
+    "Sigue las instrucciones del vídeo paso a paso en la app."
   ],
   "images": [
     "01.jpeg",
