@@ -1,18 +1,30 @@
 {
   "id": "short_bizcocho_yogur",
-  "title": "Bizcocho Yogur",
-  "description": "Receta fácil y rápida de Bizcocho Yogur a mi manera.",
+  "title": "Bizcocho de Yogur en Air Fryer",
+  "description": "¡El clásico bizcocho de yogur de la abuela adaptado a tu Air Fryer! Ultra esponjoso.",
   "category": [
-    "Postres"
+    "Air Fryer",
+    "Postres",
+    "Panes y Masas"
   ],
   "difficulty": "Fácil",
-  "time": "15 min",
+  "time": "25 min",
   "servings": "2 porciones",
   "thumbnail": "01.jpeg",
   "youtube_id": "",
-  "ingredients": [],
+  "ingredients": [
+    "1 yogur",
+    "3 huevos",
+    "2 medidas de azúcar",
+    "3 de harina",
+    "1/2 de aceite y 1 sobre de levadura"
+  ],
   "steps": [
-    "Sigue las instrucciones del vídeo paso a paso en la app."
+    "Usa 1 yogur, 3 huevos, 2 medidas de azúcar, 3 de harina, 1/2 de aceite y 1 sobre de levadura.",
+    "Bate los huevos con el azúcar y el yogur. Añade el aceite, la harina y la levadura tamizadas.",
+    "Vierte la mezcla homogénea en un molde adecuado que quepa en tu Air Fryer.",
+    "Hornea a 160 grados durante 25 minutos. ¡Comprueba con un palillo que sale limpio!",
+    "¡Desmolda y disfruta de un desayuno esponjoso! Guarda esta receta imprescindible."
   ],
   "images": [
     "01.jpeg",
