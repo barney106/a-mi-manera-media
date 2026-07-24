@@ -2,7 +2,10 @@
   "id": "short_coliflor_crujiente",
   "title": "Coliflor Crujiente en Air Fryer",
   "description": "¡Vas a amar la coliflor preparada así! Crujiente, dorada y llena de especias.",
-  "category": "Air Fryer",
+  "category": [
+    "Air Fryer",
+    "Vegetariano"
+  ],
   "difficulty": "Fácil",
   "time": "15 min",
   "servings": "2 porciones",

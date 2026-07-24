@@ -2,7 +2,10 @@
   "id": "short_pretzel_casero",
   "title": "Pretzel Casero Rápido en Air Fryer",
   "description": "¡Pretzels tiernos por dentro y doraditos por fuera en tiempo récord con tu Air Fryer!",
-  "category": "Panes y Masas",
+  "category": [
+    "Panes y Masas",
+    "Cenas rápidas"
+  ],
   "difficulty": "Fácil",
   "time": "10 min",
   "servings": "2 porciones",

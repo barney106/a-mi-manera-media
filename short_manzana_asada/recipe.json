@@ -2,7 +2,10 @@
   "id": "short_manzana_asada",
   "title": "Manzana Asada con Canela en Air Fryer",
   "description": "¡El postre saludable definitivo! Manzanas asadas con canela y nueces en pocos minutos.",
-  "category": "Postres",
+  "category": [
+    "Postres",
+    "Air Fryer"
+  ],
   "difficulty": "Fácil",
   "time": "15 min",
   "servings": "2 porciones",

@@ -2,7 +2,10 @@
   "id": "short_patatas_gajo_crujientes",
   "title": "Patatas Gajo Crujientes en Air Fryer",
   "description": "¡El mejor acompañamiento para tus cenas! Patatas gajo súper crujientes sin freír.",
-  "category": "Patatas",
+  "category": [
+    "Patatas",
+    "Air Fryer"
+  ],
   "difficulty": "Fácil",
   "time": "20 min",
   "servings": "2 porciones",

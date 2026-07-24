@@ -2,7 +2,10 @@
   "id": "short_pizza_rapida",
   "title": "Pizza Rápida en Air Fryer",
   "description": "¡Pizza casera express en Air Fryer con masa crujiente lista en menos de diez minutos!",
-  "category": "Panes y Masas",
+  "category": [
+    "Panes y Masas",
+    "Cenas rápidas"
+  ],
   "difficulty": "Fácil",
   "time": "6 min",
   "servings": "2 porciones",

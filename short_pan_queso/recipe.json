@@ -2,7 +2,10 @@
   "id": "short_pan_queso",
   "title": "Pan de Queso en Air Fryer",
   "description": "¡Pão de queijo o pan de queso súper elástico y esponjoso en tu freidora de aire!",
-  "category": "Panes y Masas",
+  "category": [
+    "Panes y Masas",
+    "Cenas rápidas"
+  ],
   "difficulty": "Fácil",
   "time": "12 min",
   "servings": "2 porciones",

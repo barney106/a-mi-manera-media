@@ -2,7 +2,10 @@
   "id": "short_salmon",
   "title": "Salmón en Air Fryer",
   "description": "Salmón jugosísimo por dentro y con piel crujiente en solo diez minutos.",
-  "category": "Pollo y Carnes",
+  "category": [
+    "Pescados y Carnes",
+    "Air Fryer"
+  ],
   "difficulty": "Fácil",
   "time": "10 min",
   "servings": "2 porciones",

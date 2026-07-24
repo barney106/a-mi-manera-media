@@ -2,7 +2,10 @@
   "id": "short_pan_yogur",
   "title": "Pan de Yogur en Air Fryer",
   "description": "¡Pan de yogur sin levadura de panadería! Esponjoso, rápido y perfecto para tostadas.",
-  "category": "Panes y Masas",
+  "category": [
+    "Panes y Masas",
+    "Cenas rápidas"
+  ],
   "difficulty": "Fácil",
   "time": "15 min",
   "servings": "2 porciones",

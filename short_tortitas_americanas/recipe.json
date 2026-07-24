@@ -2,7 +2,9 @@
   "id": "short_tortitas_americanas",
   "title": "Tortitas Americanas en Air Fryer",
   "description": "¡Tortitas americanas esponjosas y perfectas sin estar pendiente de la sartén!",
-  "category": "Postres",
+  "category": [
+    "Postres"
+  ],
   "difficulty": "Fácil",
   "time": "6 min",
   "servings": "2 porciones",

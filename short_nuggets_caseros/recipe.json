@@ -2,7 +2,10 @@
   "id": "short_nuggets_caseros",
   "title": "Nuggets Caseros en Air Fryer",
   "description": "Olvídate de los procesados. Haz estos nuggets de pollo caseros súper saludables en Air Fryer.",
-  "category": "Pollo y Carnes",
+  "category": [
+    "Pollo",
+    "Air Fryer"
+  ],
   "difficulty": "Fácil",
   "time": "12 min",
   "servings": "2 porciones",

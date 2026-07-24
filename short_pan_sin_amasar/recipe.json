@@ -2,7 +2,10 @@
   "id": "short_pan_sin_amasar",
   "title": "Pan sin Amasar en Air Fryer",
   "description": "¡Haz pan casero súper crujiente sin amasar y sin complicarte la vida!",
-  "category": "Panes y Masas",
+  "category": [
+    "Panes y Masas",
+    "Cenas rápidas"
+  ],
   "difficulty": "Fácil",
   "time": "25 min",
   "servings": "2 porciones",

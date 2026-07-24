@@ -2,7 +2,10 @@
   "id": "short_palitos_mozzarella",
   "title": "Palitos de Mozzarella en Air Fryer",
   "description": "¡Queso fundido y exterior súper crujiente! Palitos de mozzarella en Air Fryer.",
-  "category": "Air Fryer",
+  "category": [
+    "Air Fryer",
+    "Vegetariano"
+  ],
   "difficulty": "Fácil",
   "time": "36 min",
   "servings": "2 porciones",

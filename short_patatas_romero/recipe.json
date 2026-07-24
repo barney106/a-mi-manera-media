@@ -2,7 +2,10 @@
   "id": "short_patatas_romero",
   "title": "Patatas al Romero",
   "description": "El aroma de esta receta va a inundar tu cocina: patatas rústicas al romero.",
-  "category": "Patatas",
+  "category": [
+    "Patatas",
+    "Air Fryer"
+  ],
   "difficulty": "Fácil",
   "time": "20 min",
   "servings": "2 porciones",

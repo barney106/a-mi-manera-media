@@ -2,7 +2,10 @@
   "id": "short_pan_ajo",
   "title": "Pan de Ajo en Air Fryer",
   "description": "¡El pan de ajo más crujiente y sabroso que vas a probar! Listo en solo cinco minutos.",
-  "category": "Panes y Masas",
+  "category": [
+    "Panes y Masas",
+    "Cenas rápidas"
+  ],
   "difficulty": "Fácil",
   "time": "6 min",
   "servings": "2 porciones",

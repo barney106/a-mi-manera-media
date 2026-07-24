@@ -2,7 +2,10 @@
   "id": "short_calabacin_crujiente",
   "title": "Calabacín Crujiente en Air Fryer",
   "description": "¡El snack de verdura definitivo! Bastones de calabacín crujientes sin freír.",
-  "category": "Air Fryer",
+  "category": [
+    "Air Fryer",
+    "Vegetariano"
+  ],
   "difficulty": "Fácil",
   "time": "12 min",
   "servings": "2 porciones",

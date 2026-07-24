@@ -2,7 +2,9 @@
   "id": "short_magdalenas_esponjosas",
   "title": "Magdalenas Esponjosas en Air Fryer",
   "description": "¡Magdalenas caseras con un copete gigante hechas en la Air Fryer en solo diez minutos!",
-  "category": "Postres",
+  "category": [
+    "Postres"
+  ],
   "difficulty": "Fácil",
   "time": "12 min",
   "servings": "2 porciones",

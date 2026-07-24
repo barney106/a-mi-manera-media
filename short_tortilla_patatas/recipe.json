@@ -2,7 +2,10 @@
   "id": "short_tortilla_patatas",
   "title": "Tortilla de Patatas en Air Fryer",
   "description": "¡Sí, es posible! Haz una tortilla de patatas clásica en la Air Fryer manchando poquísimo.",
-  "category": "Patatas",
+  "category": [
+    "Patatas",
+    "Air Fryer"
+  ],
   "difficulty": "Fácil",
   "time": "30 min",
   "servings": "2 porciones",

@@ -2,7 +2,10 @@
   "id": "short_snack_garbanzos",
   "title": "Snack Garbanzos",
   "description": "Receta fácil y rápida de Snack Garbanzos a mi manera.",
-  "category": "Air Fryer",
+  "category": [
+    "Air Fryer",
+    "Vegetariano"
+  ],
   "difficulty": "Fácil",
   "time": "15 min",
   "servings": "2 porciones",

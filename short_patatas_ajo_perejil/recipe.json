@@ -2,7 +2,10 @@
   "id": "short_patatas_ajo_perejil",
   "title": "Patatas al Ajo y Perejil",
   "description": "Patatas al ajo y perejil, una receta clásica pero llena de sabor que nunca falla.",
-  "category": "Patatas",
+  "category": [
+    "Patatas",
+    "Air Fryer"
+  ],
   "difficulty": "Fácil",
   "time": "20 min",
   "servings": "2 porciones",

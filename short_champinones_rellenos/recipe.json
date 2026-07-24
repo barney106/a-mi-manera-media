@@ -2,7 +2,10 @@
   "id": "short_champinones_rellenos",
   "title": "Champiñones Rellenos en Air Fryer",
   "description": "Un entrante jugoso y facilísimo: champiñones rellenos gratinados en Air Fryer.",
-  "category": "Air Fryer",
+  "category": [
+    "Air Fryer",
+    "Vegetariano"
+  ],
   "difficulty": "Fácil",
   "time": "10 min",
   "servings": "2 porciones",

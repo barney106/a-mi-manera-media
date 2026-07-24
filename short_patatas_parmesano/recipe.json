@@ -2,7 +2,10 @@
   "id": "short_patatas_parmesano",
   "title": "Patatas con Parmesano",
   "description": "¡La adicción hecha receta! Patatas asadas con costra de queso parmesano.",
-  "category": "Patatas",
+  "category": [
+    "Patatas",
+    "Air Fryer"
+  ],
   "difficulty": "Fácil",
   "time": "20 min",
   "servings": "2 porciones",

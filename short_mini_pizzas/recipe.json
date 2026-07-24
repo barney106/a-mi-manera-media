@@ -2,7 +2,11 @@
   "id": "short_mini_pizzas",
   "title": "Mini Pizzas en Air Fryer",
   "description": "¡El snack favorito de los peques! Mini pizzas individuales súper divertidas en Air Fryer.",
-  "category": "Panes y Masas",
+  "category": [
+    "Panes y Masas",
+    "Cenas rápidas",
+    "Air Fryer"
+  ],
   "difficulty": "Fácil",
   "time": "5 min",
   "servings": "2 porciones",

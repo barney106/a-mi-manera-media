@@ -2,7 +2,10 @@
   "id": "short_patatas_rancheras",
   "title": "Patatas Rancheras",
   "description": "¡Noche de patatas rancheras! El entrante definitivo con queso y bacon.",
-  "category": "Patatas",
+  "category": [
+    "Patatas",
+    "Air Fryer"
+  ],
   "difficulty": "Fácil",
   "time": "20 min",
   "servings": "2 porciones",
