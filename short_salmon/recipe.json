@@ -1,0 +1,28 @@
+{
+  "id": "short_salmon",
+  "title": "Salmón en Air Fryer",
+  "description": "Salmón jugosísimo por dentro y con piel crujiente en solo diez minutos.",
+  "category": "Recetas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Ingredientes: lomos de salmón",
+    "ajo en polvo",
+    "eneldo fresco",
+    "zumo de limón",
+    "aceite y sal"
+  ],
+  "steps": [
+    "Ingredientes: lomos de salmón, ajo en polvo, eneldo fresco, zumo de limón, aceite y sal.",
+    "Seca la piel del salmón con papel y pincela la carne con aceite de oliva.",
+    "Sazona con la sal, el ajo en polvo, el eneldo y unas gotas de zumo de limón.",
+    "Coloca los lomos en la cesta y cocínalos a 200 grados durante 8 a 10 minutos.",
+    "¡Perfecto, tierno e imbatible para tus cenas! Guarda esta receta rápida."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

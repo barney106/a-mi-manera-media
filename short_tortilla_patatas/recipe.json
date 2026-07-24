@@ -1,0 +1,27 @@
+{
+  "id": "short_tortilla_patatas",
+  "title": "Tortilla de Patatas en Air Fryer",
+  "description": "¡Sí, es posible! Haz una tortilla de patatas clásica en la Air Fryer manchando poquísimo.",
+  "category": "Patatas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Solo necesitas patatas",
+    "cebolla opcional",
+    "huevos frescos",
+    "un hilo de aceite y sal"
+  ],
+  "steps": [
+    "Solo necesitas patatas, cebolla opcional, huevos frescos, un hilo de aceite y sal.",
+    "Corta la patata y la cebolla finas. Cocínalas en un molde a 180 grados durante 20 minutos.",
+    "Bate los huevos en un bol, añade sal y mezcla con la patata caliente ya tierna.",
+    "Vierte la mezcla en el molde y cocina a 170 grados durante 10 minutos para cuajar.",
+    "¡Jugosa por dentro y lista sin complicaciones! Guarda el vídeo y sígueme."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

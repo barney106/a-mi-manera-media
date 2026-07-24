@@ -1,0 +1,27 @@
+{
+  "id": "short_patatas_papillote",
+  "title": "Patatas al Papillote en Microondas",
+  "description": "¡Atento! El truco definitivo para hacer patatas al papillote supersaludables en solo seis minutos.",
+  "category": "Patatas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Solo necesitas patatas medianas",
+    "aceite de oliva",
+    "tus hierbas favoritas",
+    "sal y papel vegetal"
+  ],
+  "steps": [
+    "Solo necesitas patatas medianas, aceite de oliva, tus hierbas favoritas, sal y papel vegetal.",
+    "Lava bien la patata, hazle unos cortes finos y condiméntala con aceite, sal y especias.",
+    "Envuélvela herméticamente en el papel vegetal doblando bien las puntas como un paquete.",
+    "Llévala al microondas a máxima potencia durante seis minutos. ¡Se cocina en su propio vapor!",
+    "Abre con cuidado... ¡Súper tiernas, jugosas y sin ensuciar nada! Guarda este Short y pruébalas."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

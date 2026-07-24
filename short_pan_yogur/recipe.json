@@ -1,0 +1,26 @@
+{
+  "id": "short_pan_yogur",
+  "title": "Pan de Yogur en Air Fryer",
+  "description": "¡Pan de yogur sin levadura de panadería! Esponjoso, rápido y perfecto para tostadas.",
+  "category": "Postres y Masas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Ingredientes: yogur natural",
+    "harina de trigo",
+    "levadura química tipo Royal y sal"
+  ],
+  "steps": [
+    "Ingredientes: yogur natural, harina de trigo, levadura química tipo Royal y sal.",
+    "Integra el yogur con la harina, la levadura y la sal en un bol hasta formar la masa.",
+    "Forma un panecillo redondo o varios individuales y hazles un corte superior.",
+    "Cocínalos en la Air Fryer durante 15 minutos a 180 grados hasta que se doren bien.",
+    "¡Listo en un abrir y cerrar de ojos! Miga supersuave. Guarda la receta y pruébala."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

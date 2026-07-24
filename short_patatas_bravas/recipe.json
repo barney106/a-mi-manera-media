@@ -1,0 +1,28 @@
+{
+  "id": "short_patatas_bravas",
+  "title": "Patatas Bravas Caseras",
+  "description": "Aprende a hacer unas patatas bravas de bar en casa con su salsa picante auténtica.",
+  "category": "Patatas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Usa patatas para freír",
+    "aceite",
+    "cebolla",
+    "pimentón picante",
+    "un toque de harina y caldo"
+  ],
+  "steps": [
+    "Usa patatas para freír, aceite, cebolla, pimentón picante, un toque de harina y caldo.",
+    "Sofríe la cebolla, añade el pimentón, la harina, el caldo y tritura para una salsa perfecta.",
+    "Corta las patatas en trozos irregulares y confítalas a fuego medio hasta que estén tiernas.",
+    "Súbele el fuego a tope al final para darles ese golpe de calor crujiente por fuera.",
+    "Sirve con abundante salsa brava por encima. ¡Irresistibles! Sígueme para más tapeo."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

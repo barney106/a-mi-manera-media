@@ -1,0 +1,28 @@
+{
+  "id": "short_patatas_hasselback",
+  "title": "Patatas Hasselback",
+  "description": "Sorprende a todos con estas patatas Hasselback, crujientes, vistosas y llenas de sabor.",
+  "category": "Patatas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Solo necesitas patatas medianas",
+    "mantequilla derretida",
+    "ajo",
+    "tomillo",
+    "sal y pimienta"
+  ],
+  "steps": [
+    "Solo necesitas patatas medianas, mantequilla derretida, ajo, tomillo, sal y pimienta.",
+    "Usa dos palillos como guía y haz cortes finos a lo largo de la patata sin llegar al fondo.",
+    "Pincela bien entre las láminas con la mezcla de mantequilla derretida, ajo picado y especias.",
+    "Hornea a doscientos grados durante cuarenta y cinco minutos hasta que se abran las láminas.",
+    "¡Ese toque dorado es increíble! Un acompañamiento de diez. Guarda esta receta."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

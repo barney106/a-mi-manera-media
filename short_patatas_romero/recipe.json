@@ -1,0 +1,27 @@
+{
+  "id": "short_patatas_romero",
+  "title": "Patatas al Romero",
+  "description": "El aroma de esta receta va a inundar tu cocina: patatas rústicas al romero.",
+  "category": "Patatas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Necesitarás patatas rústicas",
+    "romero fresco",
+    "aceite de oliva virgen extra",
+    "sal gruesa y pimienta"
+  ],
+  "steps": [
+    "Necesitarás patatas rústicas, romero fresco, aceite de oliva virgen extra, sal gruesa y pimienta.",
+    "Lava bien las patatas y trocéalas en dados grandes sin quitarles la piel.",
+    "Mezcla en un bol con abundante aceite, sal gruesa, pimienta y las hojas de romero picadas.",
+    "Extiéndelas en la bandeja y hornea a doscientos grados durante treinta y cinco minutos.",
+    "Tiernas por dentro y bien crujientes por fuera. ¡Te van a encantar! Guarda la idea."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

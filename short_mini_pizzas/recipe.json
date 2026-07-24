@@ -1,0 +1,26 @@
+{
+  "id": "short_mini_pizzas",
+  "title": "Mini Pizzas en Air Fryer",
+  "description": "¡El snack favorito de los peques! Mini pizzas individuales súper divertidas en Air Fryer.",
+  "category": "Recetas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Usa obleas de empanadilla",
+    "salsa de tomate",
+    "mozzarella rallada y pepperoni"
+  ],
+  "steps": [
+    "Usa obleas de empanadilla, salsa de tomate, mozzarella rallada y pepperoni.",
+    "Coloca las obleas sobre papel vegetal y ponles una cucharada de salsa de tomate.",
+    "Añade abundante queso mozzarella fundente y rodajas pequeñas de pepperoni por encima.",
+    "Cocínalas en la Air Fryer durante 5 minutos a 190 grados hasta gratinar bien.",
+    "¡Bocados crujientes e irresistibles! Guarda la receta para tu próxima merienda."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

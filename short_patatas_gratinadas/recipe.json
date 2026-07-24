@@ -1,0 +1,28 @@
+{
+  "id": "short_patatas_gratinadas",
+  "title": "Patatas Gratinadas Rápidas",
+  "description": "Si tienes prisa pero quieres algo delicioso, haz estas patatas gratinadas exprés.",
+  "category": "Patatas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Usa patatas cocidas",
+    "nata para cocinar",
+    "queso para rallar",
+    "nuez moscada",
+    "sal y pimienta"
+  ],
+  "steps": [
+    "Usa patatas cocidas, nata para cocinar, queso para rallar, nuez moscada, sal y pimienta.",
+    "Corta las patatas en rodajas finas y colócalas solapadas en un recipiente para horno.",
+    "Bate la nata con la nuez moscada, sal y pimienta, y viértela por encima de las patatas.",
+    "Cubre con abundante queso y gratina a doscientos veinte grados durante diez minutos.",
+    "Cremosas, doradas y hechas en un momento. Guarda la receta para tu próxima comida."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

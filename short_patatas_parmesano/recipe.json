@@ -1,0 +1,27 @@
+{
+  "id": "short_patatas_parmesano",
+  "title": "Patatas con Parmesano",
+  "description": "¡La adicción hecha receta! Patatas asadas con costra de queso parmesano.",
+  "category": "Patatas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Ingredientes: patatas pequeñas",
+    "queso parmesano rallado",
+    "ajo en polvo",
+    "aceite y orégano"
+  ],
+  "steps": [
+    "Ingredientes: patatas pequeñas, queso parmesano rallado, ajo en polvo, aceite y orégano.",
+    "Corta las patatas por la mitad y hazles unos cortes en forma de rejilla en la carne.",
+    "En la bandeja de horno pon aceite, las especias y una capa generosa de parmesano.",
+    "Coloca las patatas boca abajo sobre el queso y hornea a doscientos grados durante treinta minutos.",
+    "¡Mira esa costra crujiente de queso! Están para chuparse los dedos. Sígueme para más."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

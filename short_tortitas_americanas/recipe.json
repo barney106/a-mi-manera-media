@@ -1,0 +1,28 @@
+{
+  "id": "short_tortitas_americanas",
+  "title": "Tortitas Americanas en Air Fryer",
+  "description": "¡Tortitas americanas esponjosas y perfectas sin estar pendiente de la sartén!",
+  "category": "Postres y Masas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Necesitas harina",
+    "huevo",
+    "leche",
+    "un toque de mantequilla derredida",
+    "azúcar y levadura"
+  ],
+  "steps": [
+    "Necesitas harina, huevo, leche, un toque de mantequilla derredida, azúcar y levadura.",
+    "Mezcla todos los ingredientes en un bol con varillas hasta obtener una masa sin grumos.",
+    "Vierte porciones de masa en moldes planos de silicona o papel vegetal en la cesta.",
+    "Cocina en la Air Fryer durante 6 minutos a 180 grados hasta que estén doraditas.",
+    "¡Sirve con sirope de arce o fruta fresca! Guarda esta receta para tus desayunos de domingo."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

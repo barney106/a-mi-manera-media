@@ -1,0 +1,26 @@
+{
+  "id": "short_patatas_rancheras",
+  "title": "Patatas Rancheras",
+  "description": "¡Noche de patatas rancheras! El entrante definitivo con queso y bacon.",
+  "category": "Patatas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Prepárate: patatas fritas o de Air Fryer",
+    "bacon en tiras",
+    "queso cheddar fundido y salsa ranchera"
+  ],
+  "steps": [
+    "Prepárate: patatas fritas o de Air Fryer, bacon en tiras, queso cheddar fundido y salsa ranchera.",
+    "Cocina las patatas como más te guste hasta que queden bien doradas y crujientes.",
+    "Pasa el bacon por la sartén hasta que quede súper crujiente y escurre el exceso de grasa.",
+    "Cubre las patatas calientes con la salsa ranchera, el cheddar rallado y el bacon. ¡Gratina un minuto!",
+    "¡Puro queso fundido! El plato perfecto para compartir. Sígueme si te ha dado hambre."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "short_nuggets_caseros",
+  "title": "Nuggets Caseros en Air Fryer",
+  "description": "Olvídate de los procesados. Haz estos nuggets de pollo caseros súper saludables en Air Fryer.",
+  "category": "Recetas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Usa pechuga de pollo picada",
+    "queso crema",
+    "ajo en polvo",
+    "huevo y copo de maíz o pan rallado"
+  ],
+  "steps": [
+    "Usa pechuga de pollo picada, queso crema, ajo en polvo, huevo y copo de maíz o pan rallado.",
+    "Mezcla la carne con el queso crema y condimentos. Forma la pequeña porción de nuggets.",
+    "Pásalos por huevo batido y empánalos con copos de maíz triturados para extra crocante.",
+    "Llévalos a la Air Fryer durante 12 minutos a 190 grados hasta que adquieran color dorado.",
+    "¡Tiernos por dentro y crujientes por fuera! Guarda la receta y sígueme para más."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

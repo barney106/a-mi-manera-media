@@ -1,0 +1,27 @@
+{
+  "id": "short_patatas_ajo_perejil",
+  "title": "Patatas al Ajo y Perejil",
+  "description": "Patatas al ajo y perejil, una receta clásica pero llena de sabor que nunca falla.",
+  "category": "Patatas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Necesitas patatas",
+    "cuatro dientes de ajo",
+    "perejil fresco picado",
+    "aceite de oliva y sal"
+  ],
+  "steps": [
+    "Necesitas patatas, cuatro dientes de ajo, perejil fresco picado, aceite de oliva y sal.",
+    "Pela y corta las patatas en dados medianos. Cuécelas en agua con sal durante ocho minutos.",
+    "En una sartén con aceite saltea el ajo picado hasta que empiece a dorarse sin quemarse.",
+    "Añade las patatas escurridas, saltea a fuego alto y espolvorea abundante perejil fresco.",
+    "¡Dora un par de minutos más y listo! Tiernas, aromáticas y perfectas. ¡Sígueme para más!"
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

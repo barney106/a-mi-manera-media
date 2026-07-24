@@ -1,0 +1,27 @@
+{
+  "id": "short_patatas_pimenton",
+  "title": "Patatas al Pimentón",
+  "description": "Dale un toque ahumado e increíble a tus patatas con esta receta al pimentón.",
+  "category": "Patatas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Ingredientes: patatas",
+    "pimentón de la Vera ahumado",
+    "ajo en polvo",
+    "aceite de oliva y sal fina"
+  ],
+  "steps": [
+    "Ingredientes: patatas, pimentón de la Vera ahumado, ajo en polvo, aceite de oliva y sal fina.",
+    "Trocea las patatas en gajos finos para que se cocinen rápido y queden crujientes.",
+    "Mézclalas con un buen chorro de aceite de oliva, la sal, el ajo y el pimentón ahumado.",
+    "Cocínalas en sartén o Air Fryer durante quince minutos removiendo de vez en cuando.",
+    "¡Ese color rojo y ese aroma ahumado son de otro nivel! Sígueme para más trucos fácil."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

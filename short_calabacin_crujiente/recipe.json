@@ -1,0 +1,33 @@
+{
+  "id": "short_calabacin_crujiente",
+  "title": "Calabacín Crujiente en Air Fryer",
+  "description": "¡El snack de verdura definitivo! Bastones de calabacín crujientes sin freír.",
+  "category": "Recetas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Necesitas calabacín",
+    "huevo",
+    "pan rallado",
+    "queso parmesano",
+    "ajo en polvo y sal"
+  ],
+  "steps": [
+    "Necesitas calabacín, huevo, pan rallado, queso parmesano, ajo en polvo y sal.",
+    "Lava y corta el calabacín en bastones uniformes descartando la parte central con semillas.",
+    "Pásalos por huevo batido y luego por la mezcla de pan rallado, parmesano y ajo.",
+    "Colócalos en la Air Fryer y cocínalos durante 12 minutos a 200 grados agitándolos una vez.",
+    "¡Puro sabor y cero culpas! Acompáñalos con tu salsa favorita. Guarda la receta."
+  ],
+  "images": [
+    "01.jpeg",
+    "02.jpeg",
+    "03.jpeg",
+    "04.jpeg",
+    "05.jpeg",
+    "06.jpeg"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "short_pizza_rapida",
+  "title": "Pizza Rápida en Air Fryer",
+  "description": "¡Pizza casera express en Air Fryer con masa crujiente lista en menos de diez minutos!",
+  "category": "Recetas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Necesitas base de tortilla de trigo",
+    "tomate frito",
+    "mozzarella",
+    "jamón y orégano"
+  ],
+  "steps": [
+    "Necesitas base de tortilla de trigo, tomate frito, mozzarella, jamón y orégano.",
+    "Coloca la tortilla en la cesta y extiende una capa generosa de tomate frito.",
+    "Cubre con queso mozzarella, el jamón picado y espolvorea orégano al gusto.",
+    "Cocina a 200 grados durante 6 minutos hasta que el queso se funda y la base esté crujiente.",
+    "¡Miren qué pinta! La cena rápida perfecta para salvarte la noche. Guarda la idea."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

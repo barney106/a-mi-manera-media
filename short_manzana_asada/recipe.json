@@ -1,0 +1,26 @@
+{
+  "id": "short_manzana_asada",
+  "title": "Manzana Asada con Canela en Air Fryer",
+  "description": "¡El postre saludable definitivo! Manzanas asadas con canela y nueces en pocos minutos.",
+  "category": "Postres y Masas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Necesitas manzanas rojas",
+    "canela en polvo",
+    "un toque de miel y nueces picadas"
+  ],
+  "steps": [
+    "Necesitas manzanas rojas, canela en polvo, un toque de miel y nueces picadas.",
+    "Descorazona las manzanas con cuidado dejando la base para mantener el relleno dentro.",
+    "Añade en el centro la canela, las nueces picadas y un chorrito de miel puro.",
+    "Llévalas a la Air Fryer durante 15 minutos a 180 grados hasta que estén tiernas.",
+    "¡Caramelizadas, aromáticas y deliciosas! Guarda la receta y pruébalas hoy."
+  ],
+  "images": [
+    "01.jpeg"
+  ]
+}

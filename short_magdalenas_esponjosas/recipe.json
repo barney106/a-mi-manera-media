@@ -1,0 +1,33 @@
+{
+  "id": "short_magdalenas_esponjosas",
+  "title": "Magdalenas Esponjosas en Air Fryer",
+  "description": "¡Magdalenas caseras con un copete gigante hechas en la Air Fryer en solo diez minutos!",
+  "category": "Postres y Masas",
+  "difficulty": "Fácil",
+  "time": "15 min",
+  "servings": "2 porciones",
+  "thumbnail": "01.jpeg",
+  "youtube_id": "",
+  "ingredients": [
+    "Ingredientes: huevos",
+    "azúcar",
+    "leche",
+    "aceite de oliva suave",
+    "harina y levadura química"
+  ],
+  "steps": [
+    "Ingredientes: huevos, azúcar, leche, aceite de oliva suave, harina y levadura química.",
+    "Monta bien los huevos con el azúcar. Añade los líquidos y por último los secos integrando suavemente.",
+    "Rellena los moldes de silicona tres cuartas partes y pon un poco de azúcar por encima.",
+    "Cocina a 170 grados durante 12 minutos hasta que suban y se doren por arriba.",
+    "¡Tiernas, jugosas y con su copete clásico! Guarda la receta para tus desayunos."
+  ],
+  "images": [
+    "01.jpeg",
+    "02.jpeg",
+    "03.jpeg",
+    "04.jpeg",
+    "05.jpeg",
+    "06.jpeg"
+  ]
+}
